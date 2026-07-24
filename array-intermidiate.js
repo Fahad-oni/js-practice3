@@ -43,3 +43,4 @@ for (NUM of NUMBER) {
 }
 
 console.log(sum);
+
